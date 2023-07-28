@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">YT Downloader</string>
+    <string name="youtube_link">YouTube Link</string>
+    <string name="icon">icon</string>
+    <string name="where_you_want_to_save_the_mp3">Where you want to save the MP3</string>
+    <string name="destination_folder">Destination Folder</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="downloading">Downloading…</string>
+    <string name="_2_56mb_4_25mb">2.56MB / 4.25MB</string>
+    <string name="download_another_mp4">Download Another MP4</string>
+    <string name="mp4_successfully_saved_into_selected_folder">MP4 successfully saved into selected folder</string>
+    <string name="saving">Saving...</string>
+    <string name="_0">0%</string>
+    <string name="_02_45_04_50">02:45 / 04:50</string>
+    <string name="yt_downloader">YT Downloader</string>
+    <string name="yt_image">Yt image</string>
+</resources>
