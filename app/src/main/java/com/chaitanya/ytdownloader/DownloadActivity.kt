@@ -20,7 +20,7 @@ import kotlin.math.pow
 
 class DownloadActivity : AppCompatActivity() {
 
-    lateinit var binding: ActivityDownloadBinding
+    private lateinit var binding: ActivityDownloadBinding
     private var folderPath: Uri? = null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
